@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001-CompositeIDAnno/001-CompositeIDAnno.iml" filepath="$PROJECT_DIR$/001-CompositeIDAnno/001-CompositeIDAnno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-CompositeIDXML/001-CompositeIDXML.iml" filepath="$PROJECT_DIR$/001-CompositeIDXML/001-CompositeIDXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-CoreAPI/002-01-GetCurrentSession/002-01-GetCurrentSession.iml" filepath="$PROJECT_DIR$/002-CoreAPI/002-01-GetCurrentSession/002-01-GetCurrentSession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-CoreAPI/002-CoreAPI.iml" filepath="$PROJECT_DIR$/002-CoreAPI/002-CoreAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-ThreeStatus/003-ThreeStatus.iml" filepath="$PROJECT_DIR$/003-ThreeStatus/003-ThreeStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-Delete/004-Delete.iml" filepath="$PROJECT_DIR$/004-Delete/004-Delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-Load_Get/005-Load_Get.iml" filepath="$PROJECT_DIR$/005-Load_Get/005-Load_Get.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateDemo.iml" filepath="$PROJECT_DIR$/HibernateDemo.iml" />
+    </modules>
+  </component>
+</project>

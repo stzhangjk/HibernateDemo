@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="001-CompositeIDXML" />
+        <module name="001-IDGeneratePolicy" />
+        <module name="002-01-GetCurrentSession" />
+        <module name="003-ThreeStatus" />
+        <module name="004-Delete" />
+        <module name="005-Load_&amp;_Get" />
+        <module name="005-Load_Get" />
+        <module name="test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="001-CompositeIDAnno" target="1.5" />
+      <module name="001-CompositeIDXML" target="1.5" />
+      <module name="002-01-GetCurrentSession" target="1.5" />
+      <module name="002-CoreAPI" target="1.5" />
+      <module name="003-ThreeStatus" target="1.5" />
+      <module name="004-Delete" target="1.5" />
+      <module name="005-Load_&amp;_Get" target="1.5" />
+      <module name="005-Load_Get" target="1.5" />
+      <module name="HibernateDemo" target="1.5" />
+      <module name="test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

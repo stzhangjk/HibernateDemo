@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="model">
+
+    <class name="Student">
+        <id name="id">
+            <generator class="native"/>
+        </id>
+        <property name="name"/>
+        <property name="age"/>
+        <property name="cla" column="class"/>
+        <property name="depart"/>
+    </class>
+
+    <class name="Course">
+        <id name="id">
+            <generator class="native"/>
+        </id>
+        <property name="name"/>
+        <property name="credit"/>
+    </class>
+
+    <class name="Score">
+        <composite-id name="id" class="ScoreID">
+            <key-property name="sid"/>
+            <key-property name="cid"/>
+        </composite-id>
+        <property name="score"/>
+    </class>
+
+</hibernate-mapping>
+
+
+
+
+
+
+
