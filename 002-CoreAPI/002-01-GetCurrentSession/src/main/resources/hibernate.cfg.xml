@@ -34,7 +34,7 @@
         <property name="hbm2ddl.auto">create</property>
 
 
-        <mapping class="Student"/>
+        <mapping class="entity.Student"/>
 
     </session-factory>
 

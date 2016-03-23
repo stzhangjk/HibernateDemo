@@ -9,6 +9,17 @@
       <module fileurl="file://$PROJECT_DIR$/003-ThreeStatus/003-ThreeStatus.iml" filepath="$PROJECT_DIR$/003-ThreeStatus/003-ThreeStatus.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-Delete/004-Delete.iml" filepath="$PROJECT_DIR$/004-Delete/004-Delete.iml" />
       <module fileurl="file://$PROJECT_DIR$/005-Load_Get/005-Load_Get.iml" filepath="$PROJECT_DIR$/005-Load_Get/005-Load_Get.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-Update/006-Update.iml" filepath="$PROJECT_DIR$/006-Update/006-Update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-One2One/007-001-Uni-FK/007-001-Uni-FK.iml" filepath="$PROJECT_DIR$/007-One2One/007-001-Uni-FK/007-001-Uni-FK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-One2One/007-002-Bi/007-002-Bi.iml" filepath="$PROJECT_DIR$/007-One2One/007-002-Bi/007-002-Bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-One2One/007-003-Uni-FK-Composite/007-003-Uni-FK-Composite.iml" filepath="$PROJECT_DIR$/007-One2One/007-003-Uni-FK-Composite/007-003-Uni-FK-Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-One2One/007-One2One.iml" filepath="$PROJECT_DIR$/007-One2One/007-One2One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008-Component/008-Component.iml" filepath="$PROJECT_DIR$/008-Component/008-Component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009-ManyToOne-Uni/009-ManyToOne-Uni.iml" filepath="$PROJECT_DIR$/009-ManyToOne-Uni/009-ManyToOne-Uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010-OneToMany-Uni/010-OneToMany-Uni.iml" filepath="$PROJECT_DIR$/010-OneToMany-Uni/010-OneToMany-Uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/011-OneToMany-ManyToOne-Bi/011-OneToMany-ManyToOne-Bi.iml" filepath="$PROJECT_DIR$/011-OneToMany-ManyToOne-Bi/011-OneToMany-ManyToOne-Bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012-ManyToMany-Uni/012-ManyToMany-Uni.iml" filepath="$PROJECT_DIR$/012-ManyToMany-Uni/012-ManyToMany-Uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013-ManyToMany-Bi/013-ManyToMany-Bi.iml" filepath="$PROJECT_DIR$/013-ManyToMany-Bi/013-ManyToMany-Bi.iml" />
       <module fileurl="file://$PROJECT_DIR$/HibernateDemo.iml" filepath="$PROJECT_DIR$/HibernateDemo.iml" />
     </modules>
   </component>

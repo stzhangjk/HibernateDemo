@@ -15,7 +15,57 @@
         <module>003-ThreeStatus</module>
         <module>004-Delete</module>
         <module>005-Load_Get</module>
+        <module>006-Update</module>
+        <module>007-One2One</module>
+        <module>008-Component</module>
+        <module>009-ManyToOne-Uni</module>
+        <module>010-OneToMany-Uni</module>
+        <module>011-OneToMany-ManyToOne-Bi</module>
+        <module>012-ManyToMany-Uni</module>
+        <module>013-ManyToMany-Bi</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+        </dependency>
 
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.38</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>3.3.2.GA</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>3.4.0.GA</version>
+        </dependency>
+
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.5.8</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>1.5.8</version>
+        </dependency>
+    </dependencies>
 </project>

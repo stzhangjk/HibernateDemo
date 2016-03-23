@@ -29,6 +29,17 @@
         <module name="004-Delete" />
         <module name="005-Load_&amp;_Get" />
         <module name="005-Load_Get" />
+        <module name="006-Update" />
+        <module name="007-001-Uni" />
+        <module name="007-001-Uni-FK" />
+        <module name="007-002-Bi" />
+        <module name="007-003-Uni-FK-Composite" />
+        <module name="008-Component" />
+        <module name="009-ManyToOne-Uni" />
+        <module name="010-OneToMany-Uni" />
+        <module name="011-OneToMany-ManyToOne-Bi" />
+        <module name="012-ManyToMany-Uni" />
+        <module name="013-ManyToMany-Bi" />
         <module name="test" />
       </profile>
     </annotationProcessing>
@@ -41,6 +52,18 @@
       <module name="004-Delete" target="1.5" />
       <module name="005-Load_&amp;_Get" target="1.5" />
       <module name="005-Load_Get" target="1.5" />
+      <module name="006-Update" target="1.5" />
+      <module name="007-001-Uni" target="1.5" />
+      <module name="007-001-Uni-FK" target="1.5" />
+      <module name="007-002-Bi" target="1.5" />
+      <module name="007-003-Uni-FK-Composite" target="1.5" />
+      <module name="007-One2One" target="1.5" />
+      <module name="008-Component" target="1.5" />
+      <module name="009-ManyToOne-Uni" target="1.5" />
+      <module name="010-OneToMany-Uni" target="1.5" />
+      <module name="011-OneToMany-ManyToOne-Bi" target="1.5" />
+      <module name="012-ManyToMany-Uni" target="1.5" />
+      <module name="013-ManyToMany-Bi" target="1.5" />
       <module name="HibernateDemo" target="1.5" />
       <module name="test" target="1.5" />
     </bytecodeTargetLevel>

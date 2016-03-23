@@ -33,14 +33,14 @@
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">create</property>
 
-        <!--<mapping class="impl1.model.Student"/>-->
+        <!--<mapping class="impl1.model.entity.Student"/>-->
         <!--<mapping class="impl1.model.Course"/>-->
         <!--<mapping class="impl1.model.Score"/>-->
 
-        <!--<mapping class="impl2.model.Student"/>-->
+        <!--<mapping class="impl2.model.entity.Student"/>-->
         <!--<mapping class="impl2.model.Course"/>-->
         <!--<mapping class="impl2.model.Score"/>-->
-        <mapping class="impl3.model.Student"/>
+        <mapping class="impl3.model.entity.Student"/>
         <mapping class="impl3.model.Course"/>
         <mapping class="impl3.model.Score"/>
 
