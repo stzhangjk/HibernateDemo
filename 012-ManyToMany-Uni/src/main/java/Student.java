@@ -34,7 +34,7 @@ public class Student {
     @JoinTable(
         name = "t_s",
         joinColumns = {
-            @JoinColumn(name = "sid")
+                @JoinColumn(name = "sid")
         },
         inverseJoinColumns = {
                 @JoinColumn(name = "tid")

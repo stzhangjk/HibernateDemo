@@ -31,7 +31,7 @@ public class Test003 {
         System.out.println(111);
         session.getTransaction().commit();
         //detached态，内存中有，Session缓存没有，数据库也有
-    }
+}
 
     @AfterClass
     public static void afterClass(){

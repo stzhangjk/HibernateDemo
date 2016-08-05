@@ -1,6 +1,6 @@
 package impl3;
 
-import impl1.ScoreID;
+
 
 import javax.persistence.*;
 

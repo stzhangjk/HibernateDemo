@@ -1,5 +1,6 @@
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.AnnotationConfiguration;
+import org.hibernate.classic.Session;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -17,6 +18,13 @@ public class Test013 {
 
     @Test
     public void test(){
+        Student s = new Student();
+        s.setName("s1");
+
+        Session session = sf.getCurrentSession();
+        session.beginTransaction();
+        session.save(s);
+        session.getTransaction().commit();
 
     }
 

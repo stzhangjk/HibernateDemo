@@ -20,6 +20,14 @@
       <module fileurl="file://$PROJECT_DIR$/011-OneToMany-ManyToOne-Bi/011-OneToMany-ManyToOne-Bi.iml" filepath="$PROJECT_DIR$/011-OneToMany-ManyToOne-Bi/011-OneToMany-ManyToOne-Bi.iml" />
       <module fileurl="file://$PROJECT_DIR$/012-ManyToMany-Uni/012-ManyToMany-Uni.iml" filepath="$PROJECT_DIR$/012-ManyToMany-Uni/012-ManyToMany-Uni.iml" />
       <module fileurl="file://$PROJECT_DIR$/013-ManyToMany-Bi/013-ManyToMany-Bi.iml" filepath="$PROJECT_DIR$/013-ManyToMany-Bi/013-ManyToMany-Bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014-ManyToOne-Bi-CURD/014-ManyToOne-Bi-CURD.iml" filepath="$PROJECT_DIR$/014-ManyToOne-Bi-CURD/014-ManyToOne-Bi-CURD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015-CollectionsMapping/015-CollectionsMapping.iml" filepath="$PROJECT_DIR$/015-CollectionsMapping/015-CollectionsMapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016-InheritenceMapping/016-001-SingleTable/016-001-SingleTable.iml" filepath="$PROJECT_DIR$/016-InheritenceMapping/016-001-SingleTable/016-001-SingleTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016-InheritenceMapping/016-002-Perclass/016-002-Perclass.iml" filepath="$PROJECT_DIR$/016-InheritenceMapping/016-002-Perclass/016-002-Perclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016-InheritenceMapping/016-003-Joined/016-003-Joined.iml" filepath="$PROJECT_DIR$/016-InheritenceMapping/016-003-Joined/016-003-Joined.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016-InheritenceMapping/016-InheritenceMapping.iml" filepath="$PROJECT_DIR$/016-InheritenceMapping/016-InheritenceMapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-1jiaN/017-1jiaN.iml" filepath="$PROJECT_DIR$/017-1jiaN/017-1jiaN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018-3KindsOfCache/018-3KindsOfCache.iml" filepath="$PROJECT_DIR$/018-3KindsOfCache/018-3KindsOfCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/HibernateDemo.iml" filepath="$PROJECT_DIR$/HibernateDemo.iml" />
     </modules>
   </component>

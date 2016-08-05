@@ -40,6 +40,15 @@
         <module name="011-OneToMany-ManyToOne-Bi" />
         <module name="012-ManyToMany-Uni" />
         <module name="013-ManyToMany-Bi" />
+        <module name="014-ManyToOne-Bi-CURD" />
+        <module name="015-CollectionsMapping" />
+        <module name="016-001-Join" />
+        <module name="016-001-SingleTable" />
+        <module name="016-002-Perclass" />
+        <module name="016-003-Joined" />
+        <module name="017-1+N" />
+        <module name="017-1jiaN" />
+        <module name="018-3KindsOfCache" />
         <module name="test" />
       </profile>
     </annotationProcessing>
@@ -64,6 +73,16 @@
       <module name="011-OneToMany-ManyToOne-Bi" target="1.5" />
       <module name="012-ManyToMany-Uni" target="1.5" />
       <module name="013-ManyToMany-Bi" target="1.5" />
+      <module name="014-ManyToOne-Bi-CURD" target="1.5" />
+      <module name="015-CollectionsMapping" target="1.5" />
+      <module name="016-001-Join" target="1.5" />
+      <module name="016-001-SingleTable" target="1.5" />
+      <module name="016-002-Perclass" target="1.5" />
+      <module name="016-003-Joined" target="1.5" />
+      <module name="016-InheritenceMapping" target="1.5" />
+      <module name="017-1+N" target="1.5" />
+      <module name="017-1jiaN" target="1.5" />
+      <module name="018-3KindsOfCache" target="1.5" />
       <module name="HibernateDemo" target="1.5" />
       <module name="test" target="1.5" />
     </bytecodeTargetLevel>
